@@ -1,0 +1,6 @@
+{
+  "name": "ویرا انگلیش - ربات تلگرام مینی‌دوره",
+  "description": "سامانه مدیریت ثبت‌نام، اعتبارسنجی شماره، صف تأیید درخواست‌های ورود کانال خصوصی، ارسال پیام انبوه و پنل مدیریت ویرا انگلیش",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
